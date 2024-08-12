@@ -1,1 +1,1 @@
-The BankingSystem class integrates these components, enabling the overall management of customers and their accounts. It provides essential banking services such as fund transfers between accounts, managing customer data, and facilitating transactions. The system also allows customers to view their account information, including the current balance, recent transactions, and other relevant details.
+ Code Alpha BankingSystem
